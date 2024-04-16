@@ -1,0 +1,13 @@
+.title-input-box{
+    width: 200px;
+    height: 40px;
+    margin: 20px 10px 20px 20px;
+}
+
+.add-note-button{
+    width: 60px;
+    height: 30px;
+    border: solid 2px black;
+    background: transparent;
+    border-radius: 5px;
+}
